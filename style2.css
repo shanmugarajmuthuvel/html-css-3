@@ -1,0 +1,140 @@
+*{margin:0;
+	   padding:0;
+	   box-sizing:border-box;
+	   }
+	   
+	   
+	  .army{
+	       width:90%;
+		   margin-left:5%;
+		   text-align:center;
+		   }
+		.corps img{
+		    width:90%;
+			}
+		
+			
+		.corps{
+		display:flex;
+		margin-left:2%;
+		margin-top:2%;
+		padding:2%;
+		}
+ .medical{
+	 text-align:center;
+	 padding-top:5%;
+	 }
+	.cor{
+	    position:relative;
+		}
+	.walter{
+	    position:absolute;
+		top:80%;
+		margin-left:27%;
+		right:15%;
+		background-color:#C0C9D2;
+		width:70%;
+		opacity:0.7;
+	}
+	.o{
+		position:relative;
+	}
+	.sarah{
+		position:absolute;
+		top:80%;
+		margin-left:27%;
+		right:15%;
+		background-color:#C0C9D2;
+		width:70%;
+		opacity:0.7;
+		
+		
+	}
+	.r{
+		position:relative;
+	}
+	.william{
+		position:absolute;
+		top:80%;
+		margin-left:27%;
+		right:15%;
+		background-color:#C0C9D2;
+		width:70%;
+		opacity:0.7;
+	}
+	.joo{
+		position:relative;
+	}
+	.amandha{
+		position:absolute;
+		top:80%;
+		margin-left:27%;
+		right:15%;
+		background-color:#C0C9D2;
+		width:70%;
+		opacity:0.7;
+	}
+	.walter>i{
+		padding:2%;
+	
+	}
+	.sarah>i{
+		padding:2%;
+	}
+	.william>i{
+		padding:2%;
+	}
+	.amandha>i{
+		padding:2%;
+	}
+		
+		
+		.walter>p{
+		padding:2%;
+	
+	}
+	.sarah>p{
+		padding:2%;
+	}
+	.wiiliam>p{
+		padding:2%;
+	}
+	.amandha>p{
+		padding:2%;
+	}
+	.walter>h5::after{
+		content:"";
+		border-top:3px solid white;
+		position:absolute;
+		width:30%;
+		top:30%;
+		left:35%;
+	}
+		
+		.sarah>h5::after{
+		content:"";
+		border-top:3px solid white;
+		position:absolute;
+		width:30%;
+		top:30%;
+		left:35%;
+	}
+	.william>h5::after{
+		content:"";
+		border-top:3px solid white;
+		position:absolute;
+		width:30%;
+		top:30%;
+		left:35%;
+	}
+	.amandha>h5::after{
+		content:"";
+		border-top:3px solid white;
+		position:absolute;
+		width:30%;
+		top:30%;
+		left:35%;
+	}
+		
+		
+	
